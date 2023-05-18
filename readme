@@ -2,3 +2,7 @@ kahit ano
 sabi ni sir
 
 to monitor use "git status"
+
+to stage a file "git add filename"
+
+to commit a file use "git commit -m "message" "
